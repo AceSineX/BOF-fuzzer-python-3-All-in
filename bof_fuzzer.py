@@ -6,7 +6,7 @@ import subprocess
 import argparse
 
 #
-# This tool was written for students taking the OSCP
+# This tool was written for students taking the certain certifications
 # exam. It will make Buffer Overflow procedure easier
 # and faster. Make sure you understand the procedure
 # in order to be able to use this tool effectively.
