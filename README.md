@@ -21,7 +21,7 @@ Usage:
 
 python3 bof_fuzzer.py -ip <IP> -p <Port> -prefix <Prefix> -offset <Offset> -size <Buffer Size>
 
-### You can run the script without arguments, and you can change the arguments while script is running.
+#### <b>You can run the script without arguments, and you can change the arguments while script is running.</b>
 
 Hope this script will make your life easier, but make sure to know what you are doing.
 
