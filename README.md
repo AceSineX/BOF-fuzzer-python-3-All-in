@@ -19,7 +19,7 @@ Typical use case:
 
 Usage:
 
-python3 bof_fuzzer.py -ip <IP> -p <Port> -prefix <Prefix> -offset <Offset> -size <Buffer Size>
+python3 bof_fuzzer.py -ip \<IP> -p \<Port> -prefix \<Prefix> -offset \<Offset> -size \<Buffer_Size>
 
 #### <b>You can run the script without arguments, and you can change the arguments while script is running.</b>
 
