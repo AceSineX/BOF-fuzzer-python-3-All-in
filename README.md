@@ -1,7 +1,7 @@
 # BOF fuzzer python 3 All in one
 Send controlled amount of bytes, send msf-pattern, calculate offset, custom buffer, badcharacters all in one.
 
-Generally when you go through the buffer overflow procedure, I tend to make a messy python script, that keeps on getting updated with sloppy code.
+Generally when going through the buffer overflow procedure, I tend to make a messy python script, that keeps on getting updated with sloppy code.
 That's why I created this fuzzer to keep it organized, and be more efficient.
 
 Why use this fuzzer?
