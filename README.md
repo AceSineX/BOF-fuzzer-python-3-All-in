@@ -25,6 +25,4 @@ python3 bof_fuzzer.py -ip \<IP> -p \<Port> -prefix \<Prefix> -offset \<Offset> -
 
 Hope this script will make your life easier, but make sure to know what you are doing.
 
-Demo of the script:  https://bytesdeluge.com/cool_stuff/tool/buffer-overflow-fuzzer/
-
 -AceSineX
